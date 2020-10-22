@@ -186,6 +186,7 @@
     </Compile>
     <Compile Include="formularios\frmPrueba.aspx.cs">
       <DependentUpon>frmPrueba.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="formularios\frmPrueba.aspx.designer.cs">
       <DependentUpon>frmPrueba.aspx</DependentUpon>
