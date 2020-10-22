@@ -116,6 +116,7 @@
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="formularios\frmPrueba.aspx" />
+    <Content Include="formularios\frm_David.aspx" />
     <Content Include="formularios\frm_PruebaAlex.aspx" />
     <Content Include="Global.asax" />
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
@@ -192,6 +193,13 @@
     </Compile>
     <Compile Include="formularios\frmPrueba.aspx.designer.cs">
       <DependentUpon>frmPrueba.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="formularios\frm_David.aspx.cs">
+      <DependentUpon>frm_David.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="formularios\frm_David.aspx.designer.cs">
+      <DependentUpon>frm_David.aspx</DependentUpon>
     </Compile>
     <Compile Include="formularios\frm_PruebaAlex.aspx.cs">
       <DependentUpon>frm_PruebaAlex.aspx</DependentUpon>
